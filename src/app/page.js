@@ -125,8 +125,6 @@ function HomeContent() {
               <p>5. 请支持正版音乐，尊重知识产权。</p>
             </div>
           </div>
-          <p>现在是一个音乐播放器</p>
-          <p>GitHub: <a href="https://github.com/MindMorbius/APIPin" className="text-blue-500 hover:underline">MindMorbius/APIPin</a></p>
         </div>
       </Modal>
     </div>
